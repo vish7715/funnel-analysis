@@ -1,4 +1,4 @@
-# funnel-analytics
+# funnel-analysis
 <a href="/vish7715.github.io"> Home </a>
-A funnel analytics project with Starbucks customer data - in progress
+A funnel analysis project with Starbucks customer data - in progress
 
