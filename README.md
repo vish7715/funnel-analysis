@@ -70,7 +70,7 @@ Data cleaning and transformation has been done via Pandas , python library.
 
 Python script can be found here -
 
-(main/Starbucks_campaign_data_.ipynb)
+Code (main/Starbucks_campaign_data_.ipynb)
 
 
 ## Key Metrics for segmentation
