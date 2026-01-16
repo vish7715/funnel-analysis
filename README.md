@@ -69,7 +69,7 @@ Data cleaning and transformation has been done via Pandas , python library.
 
 Python script can be found here -
 
-** https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/Starbucks_campaign_data_.ipynb
+https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/Starbucks_campaign_data_.ipynb
 
 
 ## Key Metrics for segmentation
@@ -89,14 +89,14 @@ Below metrics were used for identifying customer segments -
 
    Below are the findings-
    
-<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Discount%20vs%20BOGO.png"/>
+<img width="452" height="237" alt="image" src="images/Discount%20vs%20BOGO.png"/>
    
 
 3. What is the most viewed offers vs most completed offers ?
 
    Based on Data Analysis done, below are the findings -
  
-<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Image%2012-01-26%20at%2008.59.png"/>
+<img width="452" height="237" alt="image" src="images/Image%2012-01-26%20at%2008.59.png"/>
 
 3. Customer Segmentation
 
